@@ -66,12 +66,12 @@ svg {
 }
 
 h1 {
-    font-size: auto;
+    font-size: 2em;
     font-weight: auto;
 }
 
 .card p {
-    font-size: auto;
+    font-size: .75em;
     line-height: auto;
     color: auto;
 }
@@ -80,4 +80,5 @@ a {
     background: auto;
     padding: auto;
     margin-top: auto;
+    font-size: 1em;
 }
